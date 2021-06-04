@@ -7,11 +7,11 @@ This directory is used for hosting Juypter Notebooks.
   - `test-pivot-kg-subset`: Tests various approaches for pivoting Merged KG Edges data.
   - `pivot-merged-kg-edges-NCBITaxon`: Pivots the NCBITaxon Merged KG Edges data.
 
-- **classifiers**
+- **classifiers**  
   Contains notebooks and code for taxa shape prediction with gradient boosted decision trees
 
-- **as_table**
+- **as_table**  
   Contains code to dump a kg to a table and separately to plot frequency of features.
 
-- **viz**
+- **viz**  
   Code to draw a large graph in python.
